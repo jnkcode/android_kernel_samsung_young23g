@@ -159,3 +159,5 @@ obj-$(CONFIG_GATOR)             += gator/
 
 obj-$(CONFIG_SIPC)		+= sipc/
 obj-$(CONFIG_NEW_SENSORS)	+= sensors/
+
+obj-$(CONFIG_ANDROID)		+= android/
